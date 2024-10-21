@@ -8,12 +8,12 @@ Work flow
 
 API (Application Programming Interface) allows different software systems to communicate. APIs expose certain functionalities or data from a system and enable others to use it, making it possible to interact with a web service without knowing how it’s built internally.
 
-Postman is a popular tool for API development and testing. It provides an easy-to-use interface to send HTTP requests and view responses, making it essential for testing RESTful APIs. It supports various request methods, such as GET, POST, PUT, DELETE, and more.
+Postman is a popular tool for API development and testing. It provides an easy-to-use interface to send HTTP requests and view responses, making it essential for testing RESTful APIs. It supports various request methods, such as GET, POST, PUT, DELETE, etc.
 
 **Key Concepts**
 API Endpoints: URLs that define where a client application can access the API.
 
-Example: https://api.example.com/users
+Example: https://reqres.in/users
 HTTP Methods: The action you want to perform with an API request:
 
 **GET:** Retrieve data from the server.
